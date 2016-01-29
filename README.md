@@ -1,4 +1,4 @@
-# Self-Service Slack Signup (in PHP)
+# Self-Service Slack Invite (in PHP)
 
 There are many doodads already out there that allow the general public to invite themselves to your [Slack](https://slack.com/is) instance. After surveying the range of options, I decided to write one of my own since many of the existing ones lacked input validation or did other silly things.
 
